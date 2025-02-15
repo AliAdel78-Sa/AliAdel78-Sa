@@ -1,4 +1,4 @@
-# Hi, I'm Ali! 👋
+# Hi, I'm Ali!
 - 🚀 Frontend Developer | TypeScript | React | Tailwind
 - 🔥 Building awesome projects
 - 🏗️ Working on my portfolio!
