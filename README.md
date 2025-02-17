@@ -1,5 +1,5 @@
 # Hi, I'm Ali!
-- 🚀 Frontend Developer | TypeScript | React | Tailwind
+- 🚀 Frontend Developer | TypeScript | React | SCSS
 - 🔥 Building awesome projects
 - 🏗️ Working on my portfolio!
 
@@ -11,7 +11,5 @@ I'm a passionate **Frontend Developer** who loves crafting clean, efficient, and
 
 🚀 Currently, I'm working on sharpening my skills in **React and advanced web development**.  
 🔥 My goal? To become an **expert frontend developer** and build high-performance applications.  
-
-When I'm not coding, you’ll probably find me **learning new technologies, refining my projects, or playing Terraria and fighting bosses!** 😆  
 
 Let's connect and build something awesome! 🚀
