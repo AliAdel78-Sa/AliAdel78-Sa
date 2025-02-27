@@ -2,10 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F75C7E&width=435&lines=Hello%2C+I'm+Ali!;Front-end+Developer;I+Love+Coding!;Building+Awesome+Projects!)](https://git.io/typing-svg)
 
-- 🚀 Frontend Developer | TypeScript | React | SCSS
-- 🔥 Building awesome projects
-- 🏗️ Working on my portfolio!
-
 ![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliAdel78-Sa&show_icons=true&theme=radical)
 
 # About Me
