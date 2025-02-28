@@ -21,13 +21,15 @@ I'm a passionate **Frontend Developer** who loves crafting clean, efficient, and
   <img align="left" style="padding-right: 10px;" width="35px" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
   <img align="left" style="padding-right: 10px;" width="35px" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
   <img align="left" style="padding-right: 10px;" width="35px" alt="SCSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-  <img align="left" style="padding-right: 10px;" width="35px" alt="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg">
+  <img align="left" style="padding-right: 10px;" width="35px" alt="TailwindCSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg">
   <img align="left" style="padding-right: 10px;" width="35px" alt="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="left" style="padding-right: 10px;" width="35px" alt="Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="left" style="padding-right: 10px;" width="35px" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
-  <img align="left" style="padding-right: 10px;" width="35px" alt="Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="left" style="padding-right: 10px;" width="35px" alt="Vite" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg">
-  <img align="left" style="padding-right: 10px;" width="35px" alt="Vite" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img align="left" style="padding-right: 10px;" width="35px" alt="Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img align="left" style="padding-right: 10px;" width="35px" alt="NodeJs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+<!--   <img align="left" style="padding-right: 10px;" width="35px" alt="Vite" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg"> -->
+  <img align="left" style="padding-right: 10px;" width="35px" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="left" style="padding-right: 10px;" width="35px" alt="NextJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
   <br />
 </div>
 <hr />
