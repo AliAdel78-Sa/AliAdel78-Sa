@@ -46,6 +46,6 @@ I'm a passionate **Frontend Developer** who loves crafting clean, efficient, and
 
 ### 📊 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliAdel78-Sa&layout=compact&theme=dark&langs_count=20)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliAdel78-Sa&layout=compact&theme=dark)
 
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=DEDEDE&width=435&lines=Hello%2C+I'm+Ali!;<Frontend-Developer+/>;I+Love+Coding!;Building+Awesome+Projects!)](https://git.io/typing-svg) -->
