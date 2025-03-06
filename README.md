@@ -2,7 +2,9 @@
 
 ### **_`<Frontend-Developer />`_**
 
-I'm a passionate **Frontend Developer** who loves crafting clean, efficient, and scalable web applications. My tech stack includes **TypeScript, React, Tailwind CSS, and Git**. I enjoy solving challenges, optimizing code, and building user-friendly experiences. Currently, I'm working on sharpening my skills in **React and advanced web development**. My goal? To become an **expert frontend developer** and build high-performance applications.
+Passionate engineer specializing in **TypeScript**, **React**, and **Tailwind CSS**. I craft high-performance web applications with clean architecture and exceptional UX.
+My strengths include component optimization, responsive design, and accessibility implementation. Currently advancing my expertise in React patterns, state management, and modern build systems.
+Committed to quality code, seamless experiences, and contributing to the frontend community. Building tomorrow's web, one component at a time.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CB6699?style=for-the-badge&logo=sass&logoColor=white)
