@@ -2,7 +2,7 @@
 
 ### **_`<Frontend-Developer />`_**
 
-Passionate engineer specializing in **TypeScript**, **React**, and **Tailwind CSS**. I craft high-performance web applications with clean architecture and exceptional UX.
+I'm a passionate engineer specializing in **TypeScript**, **React**, and **Tailwind CSS**. I craft high-performance web applications with clean architecture and exceptional UX.
 My strengths include component optimization, responsive design, and accessibility implementation. Currently advancing my expertise in React patterns, state management, and modern build systems.
 Committed to quality code, seamless experiences, and contributing to the frontend community. Building tomorrow's web, one component at a time.
 
