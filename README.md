@@ -42,8 +42,8 @@ Committed to quality code, seamless experiences, and contributing to the fronten
 ### 🔨 Projects
 
 #### Soon...
-
-[![Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ali-sa.dev/)
+<!--
+[![Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ali-sa.dev/) -->
 
 <hr>
 
