@@ -49,7 +49,7 @@ Committed to quality code, seamless experiences, and contributing to the fronten
 
 ### 📊 Stats
 
-![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliAdel78-Sa&show_icons=true&theme=gruvbox)
+[![Ali Adel's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliAdel78-Sa)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📊 Most Used Languages
 
